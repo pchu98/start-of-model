@@ -1,0 +1,7 @@
+version: 2
+
+sources:
+  - name: shop
+    database: assignment3-332416
+    tables:
+      - name: stripe_payment
